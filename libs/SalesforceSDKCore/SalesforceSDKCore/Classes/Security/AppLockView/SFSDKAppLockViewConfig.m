@@ -45,6 +45,7 @@
         _titleTextColor = [UIColor passcodeViewTextColor];
         _navBarColor = [UIColor whiteColor];
         _navBarTextColor = [UIColor passcodeViewTextColor];
+        _logoutButtonColor = _primaryColor;
         _instructionFont = [UIFont systemFontOfSize:14];
         _titleFont = [UIFont systemFontOfSize:18 weight:UIFontWeightBold];
         _navBarFont = [UIFont systemFontOfSize:17 weight:UIFontWeightBold];
